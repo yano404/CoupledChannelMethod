@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+out/*
+# mac
+.DS_Store
+# vim
+*~
+
