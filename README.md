@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yano404/CoupledChannelMethod/HEAD)
 
-緒方 一介『量子散乱理論への招待―フェムトの世界を見る物理―』(共立出版, 2017) の 第7章「チャネル結合と光学ポテンシャルの起源」のプロットを再現するjupyter Notebookです.
+[緒方 一介『量子散乱理論への招待―フェムトの世界を見る物理―』(共立出版, 2017)](https://www.kyoritsu-pub.co.jp/bookdetail/9784320036000) の 第7章「チャネル結合と光学ポテンシャルの起源」のプロットを再現するjupyter Notebookです.
 
 binderで実行できます(環境構築は不要です).
 
